@@ -45,16 +45,16 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&layout=normal&theme=dracula">
     <img 
-      height="180"
       src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&layout=normal&theme=flag_india"
       alt="Repos per Language">
   </picture>
+
+<br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=normal&theme=dracula&count_private=true">
     <img 
-      height="180"
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=normal&theme=flag-india&count_private=true"
       alt="Top Languages">
   </picture>
