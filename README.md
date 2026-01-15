@@ -2,9 +2,9 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/muhammad-eeman-ali](https://www.linkedin.com/in/muhammad-eeman-ali/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-eeman-ali/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@meemanali)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/17401577/m-eeman-ali](https://stackoverflow.com/users/17401577/m-eeman-ali))
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17401577/m-eeman-ali)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EemanMuhammed)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/meemanali)
 [![Google Developers](https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white)](https://g.dev/meemanali)
