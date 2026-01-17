@@ -39,25 +39,34 @@
 <br>
 
 
-<!--  -->
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&layout=normal&theme=dracula">
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&layout=normal&theme=flag_india"
-      alt="Repos per Language">
-  </picture>
+<!-- Repos per Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meemanali&theme=flag_india" alt="Repos per Language">
+</picture>
+  
+<!-- Most Committed Language -->
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meemanali&theme=dracula" media="(prefers-color-scheme: dark)">
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meemanali&theme=flag_india">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meemanali&theme=flag_india" alt="Most Commit Language">
+</picture>
 
-<br>
+</div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=normal&theme=dracula&count_private=true">
-    <img 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=normal&theme=flag-india&count_private=true"
-      alt="Top Languages">
-  </picture>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=compact&theme=dracula&count_private=true">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=compact&theme=flag-india&count_private=true">
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=meemanali&layout=compact&theme=flag-india&count_private=true">
+</picture>
+</div>
+
+
 
 
 </div>
