@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Eeman Ali</h1> <h3 align="center">Software engineer from Pakistan with 5+ years of experience in Android development, building reliable applications and high-quality solutions.</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=meemanali&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Eeman Ali" /> </p>
+<h1 align="center">Hi 👋, I'm Muhammad Eeman Ali</h1> <h3 align="center">Software engineer from Pakistan with 5+ years of experience in Android development, building reliable, high-quality mobile applications and practical software tools.</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=meemanali&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Eeman Ali" /> </p>
 
 ## 🌐 Socials:
 
